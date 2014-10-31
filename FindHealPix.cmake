@@ -1,7 +1,7 @@
 # Find HealPix
 # ~~~~~~~~
 # Copyright (c) 2014, Gurprit Singh
-# Redistribution and use is allowed according to the terms of the BSD license.
+# Redistribution and use is allowed.
 #
 # HEALPIX package includes following libraries:
 # healpix_cxx cxxsupport sharp fftpack c_utils  /*Order of these libraries is very important to resolve dependencies*/
